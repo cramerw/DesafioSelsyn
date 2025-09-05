@@ -7,7 +7,8 @@ O sistema consiste em 2 telas, a primeira de 'Login', para inserir usuário e se
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/cramerw/Desafio-Selsyn.git
+   git clone https://github.com/cramerw/DesafioSelsyn.git
+   cd desafioselsyn
    cd desafioselsyn
    ```
 
