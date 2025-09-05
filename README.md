@@ -30,7 +30,8 @@ O sistema consiste em 2 telas, a primeira de 'Login', para inserir usuário e se
 - `npm start`: roda apenas o frontend React
 - `npm run proxy`: roda apenas o proxy backend
 - `npm run dev`: roda ambos em paralelo (recomendado)
-
+- `npm test`: roda testes automatizados do Jest
+  
 ## Observações
 - O diretório `node_modules` não é enviado para o repositório, cada usuário deve rodar `npm install` ao clonar.
 - Optei por usar 'Powershell' no terminal, na instalação das dependências para rodar o projeto.
